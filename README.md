@@ -2,7 +2,7 @@
 密碼用 BCrypt 加密<br/>
 使用 JPA 及 MyBatis 跟 DB 溝通<br/>
 將 User ID 包在 JWT 裡<br/>
-&nbsp;
+<br/>
 設定Spring Security，除了註冊跟登入外，其他 API 都有 JWT 管控，如果 JWT 失效回傳 HTTP Status 401<br/>
 並用 Spring Security做 CORS 設定<br/>
 
